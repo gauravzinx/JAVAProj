@@ -1,1 +1,1 @@
-# JAVAProj
+Thread Class use case
